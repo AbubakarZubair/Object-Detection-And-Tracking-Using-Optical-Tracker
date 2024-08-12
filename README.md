@@ -44,9 +44,9 @@ Predicted image
 
 - For real_time object tracking, evaluate `object_tracking.py`
 
-![results](all-images/Screenshot(10))
-![results](all-images/Screenshot(11))
-![results](all-images/Screenshot(13))
+![results](all-images/Screenshot(10).png)
+![results](all-images/Screenshot(11).png)
+![results](all-images/Screenshot(13).png)
 
 ```
 
