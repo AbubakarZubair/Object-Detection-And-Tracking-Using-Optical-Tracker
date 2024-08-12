@@ -42,13 +42,13 @@ Predicted image
 
 ## Result
 
-- For real_time object tracking with bounding box use 'opticalflow1.py`
+- For real_time object tracking without bounding box use 'opticalflow2.py`
 ![results](all-images/Screenshot(10).png)
 ![results](all-images/Screenshot(11).png)
 ![results](all-images/Screenshot(13).png)
 
-  
-- For real_time object tracking without bounding box use 'opticalflow2.py`
+  - For real_time object tracking with bounding box use 'opticalflow1.py`
+
 ![results](all-images/Screenshot(16).png)
 ![results](all-images/Screenshot(17).png)
 ![results](all-images/Screenshot(18).png)
