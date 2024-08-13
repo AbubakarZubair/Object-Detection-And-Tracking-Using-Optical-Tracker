@@ -9,7 +9,12 @@ conda activate optimal
 pip install -r requirements.txt
 ```
 
+## Flowchart
+
+![Flowchart](all-images/optical.png)
+
 ## Dataset labeling
+
 The images for training has been labeled by labelimg. labelimg can be installed easily by
 - Install labelimg
 ```
@@ -19,9 +24,11 @@ labelimg
 Image labeling contains two files i.e images and labels.
 
 ## Dataset Training
+
 This code has been tested on  Python 3.9, Pytorch , CUDA 11.8
 
 ## Training Results
+
 These are the reproduction results from the training.
 - Confusion_Matrix
 It tells that how many images are predicted correctly during training.
