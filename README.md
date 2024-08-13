@@ -44,7 +44,7 @@ Our labeled image
 
 Predicted image 
 
-![val_batch0_pred](demo_images/val_batch1_pred.jpg)
+![val_batch0_pred](all-images/val_batch1_pred.jpg)
 
 
 ## Result
