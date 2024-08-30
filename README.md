@@ -4,8 +4,8 @@
 
 - Setup python environment
 ```
-conda create -name optimal python=3.9
-conda activate optimal
+conda create -name optical python=3.9
+conda activate optical
 pip install -r requirements.txt
 ```
 
