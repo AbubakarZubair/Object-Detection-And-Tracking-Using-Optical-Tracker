@@ -1,4 +1,4 @@
-# Object_Detection_and_Tracking_using_yolov8_and_Optimal_Tracker
+# Object_Detection_and_Tracking_using_yolov8_and_Optical_Tracker
 
 ## Environment setup
 
